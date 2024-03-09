@@ -1,12 +1,12 @@
 {
-  "name": "FileStreamBot",
+  "name": "File2Link",
   "description": "A Telegram Bot to Convert Telegram Files To Direct & Streamable Links.",
   "keywords": [
         "telegram",
         "files",
         "stream"
     ],
-  "repository": "https://github.com/avipatilpro/FileStreamBot/",
+  "repository": "https://telegram.me/BarneyStn",
   "success_url": "/",
   "logo": "https://i.ibb.co/ZJzJ9Hq/link-3x.png",
   "env": {
